@@ -1,1 +1,1 @@
-# LNMP
+# script
